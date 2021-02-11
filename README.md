@@ -7,6 +7,7 @@ Current Version: 2021-02-12
 
 
 DESCRIPTION
+
 This project has 1 dataset. This dataset has been analyzed. It has found the most popular hour of the day to pick up and return cars. 
 
 It has also ranked the stations according to popularity. Comparison of the most popular stations overall and the most popular stations at picking up hours.
@@ -34,8 +35,12 @@ SUPPORT AND CONTACT DETAILS
 If you run to an issue or bug or you have a problem send me an email at mmburu961@gmail.com.
 
 You are free to use, copy, modify or merge my code or change if there is an issue. Two heads are better than one.
- 
+
+
 LICENSE
+
 Apache 2.0
+
 Copyright (c) 2021
+
 mmburu8
